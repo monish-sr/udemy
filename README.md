@@ -1,5 +1,7 @@
 # 💻🏛️ Udemy Courses -  Data Analyst Porfolio Project 
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a8952cd2-db3d-4ff9-b2fd-406a4dd5489a" />
+
 This is a complete, real-world Data Analyst portfolio project based on a course dataset from Udemy — one of the world’s leading online learning platforms. This project simulates real analyst workflows, from raw course data exploration to business-focused SQL analysis for product, marketing, and content strategy teams.
 
 This project is perfect for:
