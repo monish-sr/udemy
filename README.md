@@ -1,4 +1,4 @@
-# 💻🏛️ Udemy Courses -  Data Analyst Porfolio Project 
+# 💻🏛️ Udemy Courses -  Data Analysis Project 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a8952cd2-db3d-4ff9-b2fd-406a4dd5489a" />
 
